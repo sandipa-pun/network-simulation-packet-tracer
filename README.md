@@ -14,7 +14,7 @@ This project demonstrates the design and simulation of a **secure and scalable t
 
 ## Network Features
 - **VLANs and VTP** for segmentation and centralized management.
-- **DHCP with failover** and relay agent for IP distribution.
+- **DHCP** and relay agent for IP distribution.
 - **Routing Protocols**:  
   - EIGRP (Headquarter)  
   - OSPF (Branch)  
